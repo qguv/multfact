@@ -1,0 +1,7 @@
+[package]
+name = "multfact"
+version = "0.1.0"
+authors = ["Quint Guvernator <quint@guvernator.net>"]
+
+[dependencies]
+rand = "0.3.0"
